@@ -1,0 +1,17 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EZBank accounts related QA apis"
+  contactDetails:
+    name: "akshay -QA"
+    email: "akshay@neutrinotechlabs.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

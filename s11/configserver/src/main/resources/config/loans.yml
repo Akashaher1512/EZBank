@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EZBank loans related prod apis"
+  contactDetails:
+    name: "Kiran -Dev"
+    email: "akashaher@neutrinotechlabs.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (453) 203-0384
